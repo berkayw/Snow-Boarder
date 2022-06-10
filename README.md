@@ -22,7 +22,4 @@ Grab a snowboard and hit the slopes!<br /> Flip, ski, fall down, rage, get up, s
 
 * You can check my notes about Snow Boarder and more!
 * <a href="https://feline-bubble-268.notion.site/Unity-C-2D-Game-Development-bf3a0e3655ef4e1fbbe91103fc1a926d"><p>Click Here For Notes</p></a>
-
-
-
   
